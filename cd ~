@@ -1,0 +1,3 @@
+cd ~
+rm -rf Community
+mkdir Community
